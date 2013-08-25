@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="description" content=" This website contains an updated list of all the global emoticons for the Twitch.tv chat. Now you too can post dog faces like the cool kids!">
+	<meta name="keywords" content="emoticons twitch twitchtv speedrun esports kappa frankerz dogface dogspace lappa onehand gaming emotes avatars faces">
 	<title>Twitch Emoticons - Spreading some DogFace love</title>
 	<link rel="icon" type="x-icon" href="favicon.ico">
 	<link rel="stylesheet" type="text/css" href="style.css">
